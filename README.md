@@ -5,6 +5,7 @@ Application Structure:
     <strong>npm install</strong> & <strong>npm start</strong></p>
     <p>To run the Test: <strong>npm test</strong></p>
   </li>
+  <li>the application build based on react-boilerplate https://github.com/react-boilerplate/react-boilerplate</li>
   <li>Main Library use: React, Redux, Immutablejs, Reselect, Styled-component, MaterialUI, Jest, Enzyme etc</li>
   <li>
     containers: 
