@@ -1,8 +1,10 @@
-Run the app: 
-npm run start
-
 Application Structure:
 <ul>
+  <li>
+    <p>To run the App: 
+    <strong>npm install</strong> & <strong>npm start</strong></p>
+    <p>To run the Test: <strong>npm test</strong></p>
+  </li>
   <li>Main Library use: React, Redux, Immutablejs, Reselect, Styled-component, MaterialUI, Jest, Enzyme etc</li>
   <li>
     containers: 
@@ -30,10 +32,5 @@ Application Structure:
     </ul>
   </li>
   <li>All utility functions (MOVE, LEFT, RIGHT, PLACE, REPORT) have unit tests, all components have basic render test</li>
-  
-  <li>
-    <p>To run the App: 
-    <strong>npm install</strong> & <strong>npm start</strong></p>
-    <p>To run the Test: <strong>npm test</strong></p>
-  </li>
+ 
 </ul>
